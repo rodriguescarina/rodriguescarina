@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigues.carinaSI&layout=true&theme=radical)](https://github.com/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguescarinaSI&show_icons=true&theme=radical)
 <!--
 **rodriguescarinaSI/rodriguescarinaSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
