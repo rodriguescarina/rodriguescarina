@@ -1,6 +1,5 @@
 ### Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguescarinaSI&layout=compact?username=rodriguescarinaSI&show_icons=true&theme=radical)
-)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguescarinaSI&show_icons=true&theme=radical)
 <!--
