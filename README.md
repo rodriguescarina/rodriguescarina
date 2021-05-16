@@ -1,8 +1,12 @@
-### Hi there 👋
-[<img src="https://raw.githubusercontent.com/rodriguescarinaSI/rodriguescarinaSI/master/GitHub/linkedin-brands.svg" width="40">](https://www.linkedin.com/in/carina-rodrigues-8761051b0/) 
-[<img src="https://raw.githubusercontent.com/rodriguescarinaSI/rodriguescarinaSI/master/GitHub/discord-brands.svg" width="40">](https://discord.com/channels/@me) 
+### Hi, i'm Carina 🤍👩‍💻
+<img src="https://raw.githubusercontent.com/rodriguescarinaSI/rodriguescarinaSI/master/GitHub/Capturar.PNG">
 
-GitHub Starts
+### Social Media
+
+[<img src="https://raw.githubusercontent.com/rodriguescarinaSI/rodriguescarinaSI/master/GitHub/discord-brands.svg" width="40">](https://discord.com/channels/@me) 
+[<img src="https://raw.githubusercontent.com/rodriguescarinaSI/rodriguescarinaSI/master/GitHub/linkedin-brands.svg" width="40">](https://www.linkedin.com/in/carina-rodrigues-8761051b0/) 
+
+### :bar_chart: Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguescarinaSI&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguescarinaSI&layout=compact?username=rodriguescarinaSI&show_icons=true&theme=radical)
