@@ -1,21 +1,64 @@
 ### Hi dev 🤍👩‍💻
+
 ![Carina Rodrigues](https://user-images.githubusercontent.com/70609409/118425412-8c9bad00-b69f-11eb-92a8-99cd454269f1.png)
 
 ### I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
-[<img src="https://raw.githubusercontent.com/rodriguescarinaSI/rodriguescarinaSI/master/GitHub/discord-brands.svg" width="40">](https://discord.com/channels/@me) 
-[<img src="https://raw.githubusercontent.com/rodriguescarinaSI/rodriguescarinaSI/master/GitHub/linkedin-brands.svg" width="40">](https://www.linkedin.com/in/carina-rodrigues-8761051b0/) 
 
+## Contact :iphone:
 
+<p align="center">
+    <a href="https://github.com/rodriguescarinaSI">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/rodriguescarinaSI">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:rodrigues.carinaTI@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rodrigues.carinaTI@gmail.com">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/carina-rodrigues-8761051b0/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/carina-rodrigues-8761051b0/">
+    </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://discord.com/channels/@me">
+        <img src="https://raw.githubusercontent.com/rodriguescarinaSI/rodriguescarinaSI/master/GitHub/discord-brands.svg" width="40">
+    </a>
+</p><br>
 
 - ✉️ how to find me by email: rodrigues.carina99@outlook.com
 - ⚡ A fact: Passionate about animals and nature, I love listening to music to relax and I love coffee 💛 
 
+## Skills :nerd_face:
+<p align="center">
+- 🌱 I am currently learning to program in C, javascript and have knowledge in python, HTML and CSS! <br><br>
 
-- 🌱 I am currently learning to program in C, javascript and have knowledge in python, HTML and CSS!
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</p>
  
+<p align="center">
+  <a href="https://github.com/rodriguescarinaSI/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguescarinaSI&layout=compact?username=rodriguescarinaSI&show_icons=true&theme=radical"
+    />
+  </a>
+  <a href="https://github.com/rodriguescarinaSI/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=rodriguescarinaSI&show_icons=true&theme=radical"
+    />
+  </a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguescarinaSI&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguescarinaSI&layout=compact?username=rodriguescarinaSI&show_icons=true&theme=radical)
+
 
 <!--
 **rodriguescarinaSI/rodriguescarinaSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
