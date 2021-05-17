@@ -27,6 +27,7 @@
 - ✉️ how to find me by email: rodrigues.carina99@outlook.com
 - ⚡ A fact: Passionate about animals and nature, I love listening to music to relax and I love coffee 💛 
 
+<br><br>
 ## Skills :nerd_face:
 <p align="center">
 - 🌱 I am currently learning to program in C, javascript and have knowledge in python, HTML and CSS! <br><br>
@@ -42,6 +43,7 @@
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </p>
  
+<br><br>
 <p align="center">
   <a href="https://github.com/rodriguescarinaSI/github-readme-stats">
     <img
