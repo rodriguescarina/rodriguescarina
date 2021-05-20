@@ -12,7 +12,7 @@
 
 <p align="center">
     <a href="https://github.com/rodriguescarinaSI">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/rodriguescarinaSI">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/rodriguescarina">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:rodrigues.carinaTI@gmail.com">
@@ -56,13 +56,13 @@
 <br><br>
 <p align="center">
  
-  <a href="https://github.com/rodriguescarinaSI/github-readme-stats">
+  <a href="https://github.com/rodriguescarina/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=rodriguescarinaSI&show_icons=true&theme=radical"
+      src="https://github-readme-stats.vercel.app/api?username=rodriguescarina&show_icons=true&theme=radical"
   <a href="https://github.com/rodriguescarinaSI/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rodriguescarinaSI&layout=compact&theme=radical"
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rodriguescarina&layout=compact&theme=radical"
 </a>
   </a>
 </p>
