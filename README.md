@@ -8,6 +8,9 @@
 
 ### I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 
+
+⚡ Fun fact: I am committed to my daily evolution, constantly seeking to learn and grow in all aspects of life;
+
 ## Contact :iphone:
 
 <p align="center">
@@ -29,7 +32,6 @@
 </p><br>
 
 - ✉️ how to find me by email: rodrigues.carina99@outlook.com
-- ⚡ A fact: Passionate about animals and nature, I love listening to music to relax and I love coffee 💛 
 
 <br><br>
 ## Skills :nerd_face:
