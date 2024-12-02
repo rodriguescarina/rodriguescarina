@@ -14,7 +14,7 @@ My name is { Carina }
 
 ## Skills :nerd_face:
 <p align="center">
-- 🌱 Currently delving deeper and exploring the world of web development with the following languages: <br><br>
+- 🌱 Currently delving deeper and exploring the world of web development with the following languages: <br><br><br>
 
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
