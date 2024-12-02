@@ -7,7 +7,7 @@ My name is { Carina }
 
 💻 Passionate about technology and innovation; <br>
 💜 Passionate about creating websites. <br>
-🚀 Constantly learning in web development; <br>
+🚀 Constantly learning in web development; <br><br>
 ⚡ Fun fact: I am committed to my daily evolution, constantly seeking to learn and grow in all aspects of life;
 
 <br>
