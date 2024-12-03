@@ -10,7 +10,7 @@
 
 ### Minhas Skills
 <p align="left">
-- 🌱 Atualmente estou me especializando e explorando o mundo de desenvolvimento web <br><br><br>
+  🌱 Atualmente estou me especializando e explorando o mundo de desenvolvimento web <br><br><br>
 
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,12 +36,14 @@
 
 <br>
 
----
-### Contato
+
+## Contato
 
 #### Ficarei feliz em te conhecer mais!
 
-<br>
+- ✉️ Contato via e-mail: rodrigues.carina99@outlook.com
+
+ <br>
 
 <p align="left">
    <a href="https://mail.google.com/mail/u/0/#inbox" title="Gmail">
@@ -52,18 +54,14 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p><br>
 
-- ✉️ Contato via e-mail: rodrigues.carina99@outlook.com
-
  
-<br><br>
+<br>
 <p align="center">
  
   <a href="https://github.com/rodriguescarina/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=rodriguescarina&show_icons=true&theme=radical"
-  <a href="https://github.com/rodriguescarinaSI/github-readme-stats">
+    <img align="center"
+      height="165" src="https://github-readme-stats.vercel.app/api?username=rodriguescarina&show_icons=true&theme=radical"
+  <a href="https://github.com/rodriguescarinaSI/github-readme-stats">&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rodriguescarina&layout=compact&theme=radical"
 </a>
   </a>
