@@ -1,20 +1,16 @@
-<p align="center">
-   Hi dev 🤍👩‍💻
-</p>
 
-My name is { Carina }
---
 
-💻 Passionate about technology and innovation; <br>
-💜 Passionate about creating websites. <br>
-🚀 Constantly learning in web development; <br><br>
-⚡ Fun fact: I am committed to my daily evolution, constantly seeking to learn and grow in all aspects of life;
+## Carina Rodrigues :)
+
+- 💜 Desenvolvedora apaixonada por criar interfaces web; <br>
+- 🚀 Evoluindo constantemente como desenvolvedora web, aprimorando minhas habilidades e explorando novas tecnologias; <br><br>
+- Estou comprometida com minha evolução diária, buscando constantemente aprender e crescer em todos os aspectos da vida;
 
 <br>
 
-## Skills :nerd_face:
-<p align="center">
-- 🌱 Currently delving deeper and exploring the world of web development with the following languages: <br><br><br>
+### Minhas Skills
+<p align="left">
+- 🌱 Atualmente estou me especializando e explorando o mundo de desenvolvimento web <br><br><br>
 
 <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,23 +36,23 @@ My name is { Carina }
 
 <br>
 
+---
+### Contato
 
-## Contact :iphone:
-
-### I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+#### Ficarei feliz em te conhecer mais!
 
 <br>
 
-<p align="center">
+<p align="left">
    <a href="https://mail.google.com/mail/u/0/#inbox" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/carina-rodrigues-8761051b0/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p><br>
 
-- ✉️ how to find me by email: rodrigues.carina99@outlook.com
+- ✉️ Contato via e-mail: rodrigues.carina99@outlook.com
 
  
 <br><br>
