@@ -41,7 +41,7 @@
 
 #### Ficarei feliz em te conhecer mais!
 
-- ✉️ Contato via e-mail: rodrigues.carina99@outlook.com
+&nbsp;- ✉️ Contato via e-mail: rodrigues.carina99@outlook.com
 
  <br>
 
