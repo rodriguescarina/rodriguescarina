@@ -46,7 +46,7 @@
  <br>
 
 <p align="left">
-   <a href="https://mail.google.com/mail/u/0/#inbox" title="Gmail">
+   &nbsp; <a href="https://mail.google.com/mail/u/0/#inbox" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/carina-rodrigues-8761051b0/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
