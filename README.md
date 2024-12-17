@@ -4,7 +4,9 @@
 
 - 💜 Desenvolvedora apaixonada por criar interfaces web; <br>
 - 🚀 Evoluindo constantemente como desenvolvedora web, aprimorando minhas habilidades e explorando novas tecnologias; <br><br>
-- Estou comprometida com minha evolução diária, buscando constantemente aprender e crescer em todos os aspectos da vida;
+- Estou comprometida com minha evolução diária, buscando constantemente aprender e crescer em todos os aspectos da vida;<br><br>
+<p align="center">
+   Sou grata por cada desafio que me molda e por cada conquista que me fortalece #Determinação 🌟<br>
 
 <br>
 
